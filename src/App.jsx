@@ -1,4 +1,4 @@
-import './App.module.scss'
+
 
 export function App() {
 

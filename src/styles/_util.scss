@@ -1,0 +1,11 @@
+@import 'colors';
+
+.light-theme {
+    background-color: #{$surface-light};
+    color: #{$surface-dark};
+}
+
+.dark-theme {
+    background-color: #{$surface-dark};
+    color: #{$surface-light};
+}

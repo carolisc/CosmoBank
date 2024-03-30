@@ -1,0 +1,51 @@
+$surface-dark: hsl(205, 10%, 10%);
+$surface-light: hsl(205, 20%, 90%);
+$surface-white: hsl(0, 0%, 97%);
+
+$gray-100: #0D0A3F;
+$gray-200: #110B45;
+$gray-300: #221C53;
+$gray-400: #332D61;
+$gray-500: #433F6F;
+$gray-600: #54507D;
+$gray-700: #65628B;
+$gray-800: #585858;
+$gray-900: #939393;
+
+$green-100: #25A41D;
+$green-200: #20B320;
+$green-300: #2FBA2F;
+$green-400: #3EC13D;
+$green-500: #4DC84D;
+$green-600: #5DCE5C;
+$green-700: #6DD46C;
+$green-800: #7DDA7C;
+$green-900: #8DE08C;
+
+$red-100: #D71520;
+$red-200: #EB1717;
+$red-300: #EF2626;
+$red-400: #F23435;
+$red-500: #F54445;
+$red-600: #F85355;
+$red-700: #FB6365;
+$red-800: #FC7476;
+$red-900: #FE8587;
+
+$purple-100: #7700A4;
+$purple-200: #8c00b2;
+$purple-300: #9513BB;
+$purple-400: #9E25C2;
+$purple-500: #A738C9;
+$purple-600: #B04ACF;
+$purple-700: #B85DD6;
+$purple-800: #C170DC;
+$purple-900: #C982E1;
+
+$purpleToRed: #8039A8, #903880, #9C3663, #A33550, #AA3540;
+
+// @mixin gradient($direction, $gradientColors)
+//   background: -webkit-linear-gradient($direction, $gradientColors)
+//   background: -moz-linear-gradient($direction, $gradientColors)
+//   background: -o-linear-gradient($direction, $gradientColors)
+//   background: linear-gradient($direction, $gradientColors)
