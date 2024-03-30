@@ -2,4 +2,4 @@ export default function Page({ children }) { // standard way to pass properties,
     return <div style={{ display: 'block' }}>{children}</div> // display block so the div element is actually executed on screen, to avoid problems
 } 
 
-// this might seem useless but it might be needed to make a global ...treatment..., so instead of making it inside of router.jsx, we can leave it focused on routing... every page we make moving forward will be inside of this div
+// this might seem useless but it might be needed to make a global ...treatment..., do something that's for every page, so instead of making it inside of router.jsx, we can leave it focused on routing... every page we make moving forward will be inside of this div
