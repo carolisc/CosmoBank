@@ -8,8 +8,8 @@ In addition, the development is being guided by some Mobile First concepts.
 
 After cloning the repository, access the project folder and run the following commands:
 
-`yarn
-yarn dev`
+`yarn`
+`yarn dev`
 
 In another terminal tab, run the command below to start the JSON-Server API:
 
