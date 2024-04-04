@@ -1,8 +1,18 @@
-# React + Vite
+# COSMOBANK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application was developed during the Global Dev course at Imagine School using React, Vite, Sass, and Bootstrap.
 
-Currently, two official plugins are available:
+In addition, the development is being guided by some Mobile First concepts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Running Locally
+
+After cloning the repository, access the project folder and run the following commands:
+
+`yarn
+yarn dev`
+
+In another terminal tab, run the command below to start the JSON-Server API:
+
+`yarn db`
+
+Access http://localhost:5173 to view the application.
