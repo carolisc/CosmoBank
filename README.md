@@ -1,4 +1,4 @@
-# COSMOBANK
+# CosmoBank
 
 This application is being developed during the Global Dev course at Imagine School using JavaScript, React, Vite, Sass, and Bootstrap.
 
