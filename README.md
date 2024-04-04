@@ -1,6 +1,6 @@
 # COSMOBANK
 
-This application was developed during the Global Dev course at Imagine School using React, Vite, Sass, and Bootstrap.
+This application is being developed during the Global Dev course at Imagine School using JavaScript, React, Vite, Sass, and Bootstrap.
 
 In addition, the development is being guided by some Mobile First concepts.
 
